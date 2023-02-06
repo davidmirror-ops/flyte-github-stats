@@ -8,7 +8,7 @@ require("dotenv").config()
 let query = JSON.stringify({
   query: `
     query {
-      repository(owner: "microsoft", name:"vscode") {
+      repository(owner: "flyteorg", name:"flyte") {
         openIssues: issues(states:OPEN) {
           totalCount
         }

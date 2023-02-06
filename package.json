@@ -1,5 +1,5 @@
 {
-  "name": "vscode-github-stats",
+  "name": "flyte-github-stats",
   "private": true,
   "description": "A stats dashboard for the VS Code GitHub repo",
   "version": "0.1.0",
@@ -12,6 +12,7 @@
     "serve": "gatsby serve"
   },
   "dependencies": {
+    "firebase-admin": "^11.5.0",
     "gatsby": "^2.24.4",
     "gatsby-theme-github-stats": "^0.5.3",
     "react": "^16.13.1",
@@ -22,9 +23,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lannonbr/vscode-github-stats"
+    "url": "git+https://github.com/lannonbr/vscode-github-stats.git"
   },
   "bugs": {
     "url": "https://github.com/lannonbr/vscode-github-stats/issues"
-  }
+  },
+  "homepage": "https://github.com/lannonbr/vscode-github-stats#readme",
+  "main": "gatsby-config.js",
+  "author": ""
 }

@@ -2,9 +2,9 @@ const path = require("path")
 
 module.exports = {
   siteMetadata: {
-    title: "VSCode Stats",
-    source: "https://github.com/lannonbr/vscode-github-stats",
-    repoNameWithOwner: "microsoft/vscode",
+    title: "Flyte Stats",
+    source: "https://github.com/davidmirror-ops/flyte-github-stats",
+    repoNameWithOwner: "flyteorg/flyte",
   },
   plugins: [
     {
