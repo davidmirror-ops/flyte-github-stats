@@ -3,7 +3,7 @@
 ![](https://github.com/lannonbr/vscode-github-stats/workflows/Update%20Repo/badge.svg)
 ![](https://github.com/lannonbr/vscode-github-stats/workflows/Upload%20to%20Firebase/badge.svg)
 
-A website that tracks the last two weeks of statistics about the [VS Code](https://github.com/microsoft/vscode) repo.
+A website that tracks the last two weeks of statistics about the Flyte repo.
 
 ## Site
 
